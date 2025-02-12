@@ -1,0 +1,23 @@
+html {
+  font-size: 15px;
+}
+body {
+  background-color: hsl(208, 85.4%, 83.9%);
+}
+.contentarea {
+  display: block;
+  width: 80%;
+  margin: 0 auto;
+  background-color: azure;
+  padding: 8px;
+}
+.tred {
+  color: #f00;
+}
+html,
+body,
+a,
+input,
+img {
+  user-select: none;
+}
